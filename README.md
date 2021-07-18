@@ -1,2 +1,3 @@
-# Simple-Neural-Networks-with-Python
-Implementation of Simple Neural Networks with Python
+### Simple Neural Networks with Python
+
+> Implementation of Simple Neural Networks with Python
